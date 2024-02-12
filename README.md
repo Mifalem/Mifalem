@@ -18,7 +18,7 @@ print("Я занимаюсь ручным и автоматизированны�
 После :man_student: на платформе [нетология](https://netology.ru/) мне вручили `сертификаты`:
 
 
-[Ручное тестирование веб приложений](https://private-user-images.githubusercontent.com/144659575/304141143-f3b6be1e-8717-4742-8db5-c8bab9c85f85.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc3NTI5MTIsIm5iZiI6MTcwNzc1MjYxMiwicGF0aCI6Ii8xNDQ2NTk1NzUvMzA0MTQxMTQzLWYzYjZiZTFlLTg3MTctNDc0Mi04ZGI1LWM4YmFiOWM4NWY4NS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxMlQxNTQzMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04N2E0NGYzYTM4ZGYyYTNmYzcwZWY5NGU1NWU1NjNjZWE4OWYyMzk5MTZhNzU1MmE5YzlhYTdmNjZjMTQxNWViJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.RINUbMo2KXCsUZkCSw4zX32jlT0O0tCy1cEqzeJ3kGk)
+[Ручное тестирование веб приложений](https://github.com/Mifalem/Mifalem/blob/temp/img/Manual.jpg)
 
 
 
